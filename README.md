@@ -14,9 +14,9 @@
 $ gem install github_changelog_generator
 $ gem install gem-release
 
-$ git checkout --branch version-bump
+$ git checkout -b version-bump
 
-$ gem bump--sign --tag --release --version patch --pretend
+$ gem bump --sign --tag --release --version patch --pretend
 
 $ github_changelog_generator && \
   npx doctoc README.md && \
