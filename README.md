@@ -15,6 +15,26 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+## Installation
+
+Add this line to your application's `Gemfile` or `gem.rb`:
+
+```ruby
+gem 'percy-capybara-bedrock'
+```
+
+And then execute:
+
+```sh-session
+$ bundle
+```
+
+Or install it yourself as:
+
+```sh-session
+$ gem install percy-capybara-bedrock
+```
+
 ## Releasing
 
 ```sh-session
