@@ -1,5 +1,13 @@
 # Change Log
 
+## [Unreleased](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/HEAD)
+
+[Full Changelog](https://github.com/ItinerisLtd/percy-capybara-bedrock/compare/v0.1.0...HEAD)
+
+**Merged pull requests:**
+
+- github\_changelog\_generator && npx doctoc README.md [\#2](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/2) ([TangRufus](https://github.com/TangRufus))
+
 ## [v0.1.0](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/v0.1.0) (2019-02-08)
 **Merged pull requests:**
 
