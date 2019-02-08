@@ -14,15 +14,15 @@
 $ gem install github_changelog_generator
 $ gem install gem-release
 
-$ git checkout master
+$ git checkout --branch version-bump
 
-$ npx doctoc README.md && \
-  git add README.md && \
-  git commit -m "npx doctoc README.md"
-
-$ gem bump --version patch --push --sign --tag --release --pretend
+$ gem bump--sign --tag --release --version patch --pretend
 
 $ github_changelog_generator && \
+  npx doctoc README.md && \
   git add CHANGELOG.md README.md && \
-  git commit -m "github_changelog_generator"
+  git commit -m "github_changelog_generator && npx doctoc README.md"
+
+$ git push -u origin Head && \
+  hub pull-request
 ```

@@ -21,4 +21,3 @@ before_install:
   - gem --version
   - gem install bundler
   - bundle -v
-
