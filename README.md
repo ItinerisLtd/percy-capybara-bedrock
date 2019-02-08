@@ -1,5 +1,12 @@
 # Percy::Capybara::Bedrock
 
+[![Build Status](https://travis-ci.com/ItinerisLtd/percy-capybara-bedrock.svg?branch=master)](https://travis-ci.com/ItinerisLtd/percy-capybara-bedrock)
+[![Gem Version](https://img.shields.io/gem/v/percy-capybara-bedrock.svg?style=flat)](https://rubygems.org/gems/percy-capybara-bedrock)
+[![Gem Download](https://img.shields.io/gem/dt/percy-capybara-bedrock.svg?style=flat)](https://rubygems.org/gems/percy-capybara-bedrock)
+[![License](https://img.shields.io/github/license/itinerisltd/percy-capybara-bedrock.svg?style=flat)](https://github.com/ItinerisLtd/percy-capybara-bedrock/blob/master/LICENSE.txt)
+[![Hire Itineris](https://img.shields.io/badge/Hire-Itineris-ff69b4.svg)](https://www.itineris.co.uk/contact/)
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
