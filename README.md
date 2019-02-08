@@ -11,6 +11,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Installation](#installation)
 - [Releasing](#releasing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -44,12 +45,11 @@ $ gem install gem-release
 $ git checkout -b version-bump
 
 $ gem bump --sign --tag --release --version patch --pretend
-
-$ github_changelog_generator && \
+  git push --tags && \
+  github_changelog_generator && \
   npx doctoc README.md && \
   git add CHANGELOG.md README.md && \
-  git commit -m "github_changelog_generator && npx doctoc README.md"
-
-$ git push -u origin Head && \
+  git commit -m "github_changelog_generator && npx doctoc README.md" && \
+  git push origin version-bump && \
   hub pull-request
 ```
