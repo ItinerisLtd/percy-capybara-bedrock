@@ -5,6 +5,16 @@ dist: xenial
 
 language: ruby
 
+branches:
+  only:
+    - master
+    - /^(?:(\d+)\.)?(?:(\d+)\.)?(\*|\d+)$/
+
+notifications:
+  email:
+    on_success: never
+    on_failure: never
+
 cache: bundler
 
 rvm:
