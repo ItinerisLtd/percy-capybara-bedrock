@@ -1,3 +1,4 @@
+require "percy/capybara/bedrock/anywhere"
 require "percy/capybara/bedrock/loader"
 require "percy/capybara/bedrock/version"
 
