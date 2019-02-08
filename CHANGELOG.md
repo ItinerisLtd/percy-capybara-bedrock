@@ -1,5 +1,14 @@
 # Change Log
 
+## [Unreleased](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/HEAD)
+
+[Full Changelog](https://github.com/ItinerisLtd/percy-capybara-bedrock/compare/v0.1.3...HEAD)
+
+**Merged pull requests:**
+
+- Add badges [\#6](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/6) ([TangRufus](https://github.com/TangRufus))
+- Bump percy-capybara-bedrock to 0.1.3 [\#5](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/5) ([TangRufus](https://github.com/TangRufus))
+
 ## [v0.1.3](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/v0.1.3) (2019-02-08)
 [Full Changelog](https://github.com/ItinerisLtd/percy-capybara-bedrock/compare/v0.1.2...v0.1.3)
 
