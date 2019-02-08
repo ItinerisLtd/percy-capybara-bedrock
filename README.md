@@ -16,9 +16,13 @@ $ gem install gem-release
 
 $ git checkout master
 
-$ github_changelog_generator && npx doctoc README.md
-$ git add CHANGELOG.md README.md
-$ git commit -m "github_changelog_generator && npx doctoc README.md"
+$ npx doctoc README.md && \
+  git add README.md && \
+  git commit -m "npx doctoc README.md"
 
 $ gem bump --version patch --push --sign --tag --release --pretend
+
+$ github_changelog_generator && \
+  git add CHANGELOG.md README.md && \
+  git commit -m "github_changelog_generator"
 ```
