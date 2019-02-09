@@ -11,7 +11,20 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
+- [Goal](#goal)
+- [Minimum Requirements](#minimum-requirements)
 - [Installation](#installation)
+- [Usage](#usage)
+- [FAQ](#faq)
+  - [Does it support Sage?](#does-it-support-sage)
+  - [Is it a must to use Sage?](#is-it-a-must-to-use-sage)
+  - [It looks awesome. Where can I find some more goodies like this?](#it-looks-awesome-where-can-i-find-some-more-goodies-like-this)
+  - [This isn't on wp.org. Where can I give a ⭐️⭐️⭐️⭐️⭐️ review?](#this-isnt-on-wporg-where-can-i-give-a-%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F%EF%B8%8F-review)
+- [Feedback](#feedback)
+- [Security](#security)
+- [Change log](#change-log)
+- [Credits](#credits)
+- [License](#license)
 - [Releasing](#releasing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
