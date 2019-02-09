@@ -1,5 +1,14 @@
 # Change Log
 
+## [v0.1.6](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/v0.1.6) (2019-02-09)
+[Full Changelog](https://github.com/ItinerisLtd/percy-capybara-bedrock/compare/v0.1.5...v0.1.6)
+
+**Merged pull requests:**
+
+- Update `Readme.md` [\#11](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/11) ([TangRufus](https://github.com/TangRufus))
+- Fix typo [\#10](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/10) ([TangRufus](https://github.com/TangRufus))
+- Bump percy-capybara-bedrock to 0.1.5 [\#9](https://github.com/ItinerisLtd/percy-capybara-bedrock/pull/9) ([TangRufus](https://github.com/TangRufus))
+
 ## [v0.1.5](https://github.com/ItinerisLtd/percy-capybara-bedrock/tree/v0.1.5) (2019-02-08)
 [Full Changelog](https://github.com/ItinerisLtd/percy-capybara-bedrock/compare/v0.1.4...v0.1.5)
 
