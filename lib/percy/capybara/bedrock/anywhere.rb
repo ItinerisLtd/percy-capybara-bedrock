@@ -8,8 +8,6 @@ module Percy
     module Bedrock
       # Simple block runner for self-contained Capybara tests.
       #
-      # Requires:
-      #   - poltergeist gem (which requires phantomjs)
       # Usage:
       #   Percy::Capybara::Bedrock::Anywhere.run(SERVER, WEB_ROOT, ASSETS_BASE_URL) do |page|
       #     page.visit('/')
